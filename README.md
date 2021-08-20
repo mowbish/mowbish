@@ -17,7 +17,6 @@ While Alive:
 ├────────────────────────────────────────────────────────────────────────
 ├─◈ <a href="https://www.instagram.com/mowbish/">Instagram</a>
 ├─◈ <a href="https://t.me/mowbish">Telegram</a>
-├─◈ <a href="https://twitter.com/mobin_agaei">Twitter</a>
 ├─◈ <a href="https://www.linkedin.com/in/mobin_agaei">LinkedIn</a>│
 ├────────────────────────────────────────────────────────────────────────
 ├─◈ <a href="https://github.com/mowbish/"> GitHub </a>
