@@ -29,14 +29,15 @@ While Alive:
 
 <a src="https://www.python.com/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <a src="https://docs.djangoproject.com/en/3.2/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-<a src="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/48/000000/flask.png"/></a>
 <a src="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/48/000000/flask.png"/></a>
+<a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a src="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://archcraft.io/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
