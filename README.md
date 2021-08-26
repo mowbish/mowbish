@@ -2,6 +2,9 @@
 
 All about me
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Code of life
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -22,7 +25,6 @@ While Alive:
 ├─◈ <a href="https://github.com/mowbish/"> GitHub </a>
 
 </pre>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## **Languages and Frameworks:**  
 
 <a src="https://www.python.com/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
