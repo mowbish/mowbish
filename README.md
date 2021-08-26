@@ -27,9 +27,9 @@ While Alive:
 </pre>
 ## **Languages and Frameworks:**  
 
-<a src="https://www.python.com/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a src="https://docs.djangoproject.com/en/3.2/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-<a src="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/48/000000/flask.png"/></a>
 <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
