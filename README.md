@@ -22,7 +22,7 @@ While Alive:
 ├─◈ <a href="https://github.com/mowbish/"> GitHub </a>
 
 </pre>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## **Languages and Frameworks:**  
 
 <a src="https://www.python.com/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
