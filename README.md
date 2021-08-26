@@ -17,7 +17,7 @@ While Alive:
 ├────────────────────────────────────────────────────────────────────────
 ├─◈ <a href="https://www.instagram.com/mowbish/">Instagram</a>
 ├─◈ <a href="https://t.me/mowbish">Telegram</a>
-├─◈ <a href="https://www.linkedin.com/in/mobin_agaei">LinkedIn</a>│
+├─◈ <a href="https://www.linkedin.com/in/mobin_agaei">LinkedIn</a>
 ├────────────────────────────────────────────────────────────────────────
 ├─◈ <a href="https://github.com/mowbish/"> GitHub </a>
 
@@ -25,13 +25,16 @@ While Alive:
 
 ## **Languages and Frameworks:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<a src="https://www.python.com/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a src="https://docs.djangoproject.com/en/3.2/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+<a src="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/48/000000/flask.png"/></a>
+<a src="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://archcraft.io/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
