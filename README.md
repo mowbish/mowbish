@@ -18,7 +18,7 @@ While Alive:
 ```
 
 <a href="http://www.coffeete.ir/mobin">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:500px;" />
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 </a>
 
 <pre>
