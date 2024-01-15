@@ -36,7 +36,6 @@ While Alive:
 <a src="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
 <a src="https://https://www.nginx.com/"><img src="https://img.icons8.com/color/48/000000/nginx.png"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a src="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/color/48/000000/flask.png"/></a>
 <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
